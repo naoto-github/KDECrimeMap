@@ -4,9 +4,9 @@
 
 ## 作品
 
-作品のテーマ: 防犯・防災
-作品の主なタイプ：アプリケーション
-公開URL：https://mukai-lab.info/application/CrimeHeatmap/
+- 作品のテーマ: 防犯・防災
+- 作品の主なタイプ：アプリケーション
+- 公開URL：https://mukai-lab.info/application/CrimeHeatmap/
 
 ## アピールポイント
 
